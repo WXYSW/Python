@@ -1,5 +1,11 @@
 {
-  "save_dir": "C:/Users/24130/Desktop/central warehouse/薇花/记忆库",
   "chat_url": "https://chat.deepseek.com/a/chat/s/ad34d96a-2203-40d8-81a8-fec6467c0778",
-  "message": "这是小f自动发送的测试消息，此程序在于每天自动总结对话，但是此条消息只是验证是否成功"
+  "user_data_dir": "C:\\Vivhua_Edge_Profile",
+  "edge_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "input_x": 960,
+  "input_y": 980,
+  "copy_x": 498,
+  "copy_y": 833,
+  "save_dir": "C:/Users/24130/Desktop/central warehouse/薇花/记忆库",
+  "message_template": "现在请你暂时停止扮演角色，切换为旁白视角。\n我需要你根据我们从2026年06月12日 20:53:56到现在无记录的所有对话，总结一下“wei”和”Vivian“和“花子”之间已经发生过的全部事件。\n要求：\n1. 按时间顺序，一条一条列出每个关键事件。\n2. 写出每件事里三人各自做了什么、说了什么。\n3. 只总结已经发生的事，不要编造新的内容。\n现在开始总结"
 }
