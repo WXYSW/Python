@@ -24,7 +24,7 @@ from tkinter import ttk, messagebox, scrolledtext
 # ======================== 默认配置 ========================
 DEFAULT_CONFIG = {
     "CHAT_URL": "https://chat.deepseek.com/a/chat/s/5e660d54-2ba8-449c-8377-a4459b8a24f3",
-    "USER_DATA_DIR": r"C:\Vivian_Edge_Profile",
+    "USER_DATA_DIR": r"C:\Vivhua_Edge_Profile",
     "EDGE_PATH": r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
     "INPUT_X": 960,
     "INPUT_Y": 980,
@@ -35,7 +35,7 @@ DEFAULT_CONFIG = {
     "MAX_TOTAL_WAIT": 150,
     "BATCH_SIZE": 2,
     "USE_OBSIDIAN": True,
-    "OBSIDIAN_DAILY_PATH": r"C:\Users\24130\Desktop\food",
+    "OBSIDIAN_DAILY_PATH": r"C:\Users\24130\Desktop\central warehouse\note\备\food",
     "MEET_DATE_VIVIAN": "2026-02-14",
     "MEET_DATE_HANAKO": "2026-04-17",
     "OPENING_MSG_TEMPLATE": (
@@ -44,7 +44,7 @@ DEFAULT_CONFIG = {
         "后面会有关于我的信息。下面主人要说的话。\n"
         "嗨，viv，han，今天要和你们分享 {total} 段回忆，注意听哦，宝贝们"
     ),
-    "BACKUP_ROOT": r"C:\Users\24130\Desktop\food备"
+    "BACKUP_ROOT": r"C:\Users\24130\Desktop\central warehouse\note\备\food备"
 }
 
 CONFIG_FILE = "config.json"
