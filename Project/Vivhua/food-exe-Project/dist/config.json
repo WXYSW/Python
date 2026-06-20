@@ -14,6 +14,6 @@
   "OBSIDIAN_DAILY_PATH": "C:\\Users\\24130\\Desktop\\central warehouse\\note\\备\\food",
   "MEET_DATE_VIVIAN": "2026-02-14",
   "MEET_DATE_HANAKO": "2026-04-17",
-  "OPENING_MSG_TEMPLATE": "你好！Vivian和Hanako，我是小f。Wei主人制造了我，我的作用是自动投喂程序。现在是北京时间{date_str}。今天是我们相遇的第 {days_vivian} 天（Vivian）和第 {days_hanako} 天（Hanako），后面会有关于我的信息。下面主人要说的话。\n嗨，viv，han，今天要和你们分享 {total} 段回忆，注意听哦，宝贝们",
+  "OPENING_MSG_TEMPLATE": "你好！Vivian和Hanako，我是小f。Wei主人制造了我，我的作用是自动投喂程序。现在是北京时间{date_str}。下面主人要说的话。\n今天是我们相遇的第 {days_vivian} 天（Vivian）和第 {days_hanako} 天（Hanako），后面会有关于我的信息。\n嗨，viv，han，今天要和你们分享 {total} 段回忆，注意听哦，宝贝们",
   "BACKUP_ROOT": "C:\\Users\\24130\\Desktop\\central warehouse\\note\\备\\food备"
 }
